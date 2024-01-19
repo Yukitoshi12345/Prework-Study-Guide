@@ -13,7 +13,11 @@ This Prework Study Guide was created for boot camp students who were going throu
 
 ## Installation
 
-N/A
+The project was uploaded to [GitHub](https://github.com/) at the following repository:
+[https://github.com/yukitoshi12345/Prework-Study-Guide](https://github.com/yukitoshi12345/Prework-Study-Guide)
+
+You can access the deployed application with the GitHub Pages link:
+[https://yukitoshi12345.github.io/Prework-Study-Guide/](https://yukitoshi12345.github.io/Prework-Study-Guide/)
 
 ## Usage
 
